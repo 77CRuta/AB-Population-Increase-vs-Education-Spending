@@ -195,7 +195,7 @@ This section synthesizes all findings across the three parts of the project into
 
 Alberta's combined K-12 and post-secondary operating expense rose from **$9,035M in 2012-13 to $16,518M in 2025-26** — an **83% nominal increase** over 13 years. The stacked horizontal bar chart below makes the scale of each budget year immediately legible and shows how both funding streams have grown in tandem:
 
-![Total Education Spending by Budget Year (K-12 + Post-Secondary)](budget_data/infographic_total_stacked.png)
+![Total Education Spending by Budget Year (K-12 + Post-Secondary)](plots/infographic_total_stacked.png)
 
 The critical observation here is the **step-change between 2013 and 2023**. Spending was nearly flat between the two early budgets ($9,035M → $8,892M), then surged to $14,440M by Budget 2023 — a 62% jump between the two sampled periods. Note that this dataset does not contain the intervening years (2014–2022), so the chart cannot show *when* within that decade the increase occurred, only that it did.
 
@@ -205,7 +205,7 @@ The critical observation here is the **step-change between 2013 and 2023**. Spen
 
 While both sectors grew, the pace of growth is not equal. The grouped bar chart below places each funding stream side by side across all five budget years:
 
-![Alberta Education Operating Expense — K-12 vs Post-Secondary](budget_data/infographic_k12_vs_postsec.png)
+![Alberta Education Operating Expense — K-12 vs Post-Secondary](plots/infographic_k12_vs_postsec.png)
 
 Post-secondary spending in 2012 ($2,856M) was less than half of K-12 ($6,179M). By 2025, that gap has narrowed considerably: post-secondary reached $6,635M while K-12 reached $9,883M. Post-secondary effectively grew its share of the education budget from ~32% to ~40% over this period. This suggests a structural shift in how Alberta allocates education dollars — not just a uniform scale-up.
 
@@ -215,7 +215,7 @@ Post-secondary spending in 2012 ($2,856M) was less than half of K-12 ($6,179M). 
 
 The side-by-side comparison chart below distills the entire story of the 2012→2025 period into a single, annotated figure for each spending category:
 
-![Education Spending Growth: 2012 → 2025 (13 Years of Change)](budget_data/infographic_growth_2012_vs_2025.png)
+![Education Spending Growth: 2012 → 2025 (13 Years of Change)](plots/infographic_growth_2012_vs_2025.png)
 
 | Category | 2012-13 | 2025-26 | Change |
 |---|---|---|---|
@@ -231,7 +231,7 @@ Post-secondary more than doubled. K-12 grew by 60%. The total grew at 83% — a 
 
 The five donut charts below show the K-12 / post-secondary funding split at each budget year in a format that makes proportional changes easy to see:
 
-![K-12 vs Post-Secondary Share by Budget Year](budget_data/infographic_donut_composition.png)
+![K-12 vs Post-Secondary Share by Budget Year](plots/infographic_donut_composition.png)
 
 In 2012 and 2013, post-secondary represented roughly **31–32%** of total education spending. By 2023–2025, that share climbed to **38–40%**. This reflects a sustained policy direction of increasing investment in colleges and universities at a faster rate than the K-12 system — even as K-12 spending grew significantly in absolute terms.
 
@@ -241,7 +241,7 @@ In 2012 and 2013, post-secondary represented roughly **31–32%** of total educa
 
 The heatmap encodes spending magnitude as colour intensity, allowing quick at-a-glance comparison across all budget years and categories simultaneously:
 
-![Education Spending Heatmap](budget_data/infographic_heatmap.png)
+![Education Spending Heatmap](plots/infographic_heatmap.png)
 
 The dark red cells in the Total column for Budget 2024 and Budget 2025 highlight that combined education spending has entered a distinctly higher spending regime than the early 2010s. Post-secondary cells transition from pale yellow (2012–2013) to a warm orange (2023–2025), visually capturing the more than doubling of that funding stream. K-12 shows a more moderate shift from yellow-orange to orange, reflecting its slower but still substantial growth.
 
@@ -251,7 +251,7 @@ The dark red cells in the Total column for Budget 2024 and Budget 2025 highlight
 
 To present the core percentage growth figures as cleanly as possible, the lollipop chart below strips away all absolute values and focuses entirely on the rate of change from the 2012-13 baseline:
 
-![Education Spending Growth 2012 → 2025 — Percentage Increase by Category](budget_data/infographic_lollipop_growth.png)
+![Education Spending Growth 2012 → 2025 — Percentage Increase by Category](plots/infographic_lollipop_growth.png)
 
 The visual hierarchy is intentional: post-secondary's **+132%** lollipop extends the furthest right, immediately signalling it as the outlier. Total education at **+83%** and K-12 at **+60%** provide the context. Together, every category substantially outpaced general economic growth benchmarks typically associated with a 13-year period.
 
@@ -261,7 +261,7 @@ The visual hierarchy is intentional: post-secondary's **+132%** lollipop extends
 
 Alberta's population grew from 3,822,425 in Q1 2012 to 4,988,181 in Q1 2025 — a **+30.5% increase**. The chart below places that population growth rate as a vertical reference line and overlays the spending growth rates for each education category:
 
-![Education Spending vs. Population Growth — 2012-13 to 2025-26](budget_data/integration_growth_rates.png)
+![Education Spending vs. Population Growth — 2012-13 to 2025-26](plots/integration_growth_rates.png)
 
 The answer is unambiguous: **education spending outpaced population growth by a wide margin in every category**. Even K-12 (+59.9%) grew at nearly twice the population growth rate (+30.5%). Total education spending (+82.8%) grew at **2.7×** the rate of population. Post-secondary (+132.3%) grew at **4.3×** the rate of population. In nominal terms, Alberta substantially increased its per-person education investment — though inflation accounts for some portion of this gain.
 
@@ -271,7 +271,7 @@ The answer is unambiguous: **education spending outpaced population growth by a 
 
 The per-capita chart translates raw spending dollars into what the province spends per Albertan, normalizing for population growth to show the real change in resource allocation:
 
-![Alberta Education Spending per Capita — K-12 vs Post-Secondary](budget_data/integration_per_capita.png)
+![Alberta Education Spending per Capita — K-12 vs Post-Secondary](plots/integration_per_capita.png)
 
 Key observations:
 - **K-12 per capita** rose from **$1,617** (2012-13) to **$1,981** (2025-26) — a **+22.5% increase**, meaning meaningful real-terms investment growth even after accounting for the larger population base.

@@ -1,0 +1,15 @@
+{
+  "name": "SignalPort",
+  "short_name": "SignalPort",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1a0f",
+  "theme_color": "#0a1a0f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}

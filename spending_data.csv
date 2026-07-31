@@ -1,6 +1,6 @@
-Fiscal_Year,Year,K12_M,PostSec_M,Source
-2012-13,2012,6179,2856,"Alberta Budget 2012 Fiscal Plan, Ministry Expense by Function"
-2013-14,2013,6210,2682,"Alberta Budget 2013 Fiscal Plan, Ministry Expense by Function"
-2023-24,2023,8836,5604,"Alberta Budget 2023 Fiscal Plan, Expense by Ministry (Excel)"
-2024-25,2024,9252,6305,"Alberta Budget 2024 Fiscal Plan, Expense by Ministry (Excel)"
-2025-26,2025,9883,6635,"Alberta Budget 2025 Fiscal Plan, Expense by Ministry (Excel)"
+Fiscal_Year,Year,K12_M,PostSec_M,Source,Source_Detail,Source_URL
+2012-13,2012,6179,2856,"Alberta Budget 2012 Fiscal Plan, Operating Expense by Ministry","Education; Advanced Education and Technology",https://open.alberta.ca/dataset/f81b6318-5563-42a6-9074-79f8d9dd5071/resource/d7105925-1519-4d3c-84a4-f6e2f26d1645/download/fiscal-plan-complete.pdf
+2013-14,2013,6210,2682,"Alberta Budget 2013 Fiscal Plan, Ministry Expense by Function","Education; Enterprise and Advanced Education",https://open.alberta.ca/dataset/b339816b-1492-4c31-8845-4e25029e887b/resource/27a7dced-6aa7-42e0-aac7-dfe882b9499a/download/fiscal-plan-complete.pdf
+2023-24,2023,8836,5604,"Alberta Budget 2023 Fiscal Plan, Expense by Ministry","Education; Advanced Education",https://open.alberta.ca/dataset/e46d1308-612d-4f47-8801-507ae3f8a88d/resource/ece5c51b-d53f-4354-b6f1-41b88eb44640/download/budget-2023-fiscal-plan-expense-tables-2023-26.xlsx
+2024-25,2024,9252,6305,"Alberta Budget 2024 Fiscal Plan, Expense by Ministry","Education; Advanced Education",https://open.alberta.ca/dataset/e46d1308-612d-4f47-8801-507ae3f8a88d/resource/c0dacc94-466a-4e44-81cb-443593ee10ac/download/budget-2024-fiscal-plan-expense-tables-2024-27.xlsx
+2025-26,2025,9883,6635,"Alberta Budget 2025 Fiscal Plan, Expense by Ministry","Education; Advanced Education",https://open.alberta.ca/dataset/e46d1308-612d-4f47-8801-507ae3f8a88d/resource/657bef12-8fec-448a-91b4-e02f1b66239a/download/budget-2025-fiscal-plan-expense-tables-2025-28.xlsx
